@@ -66,13 +66,6 @@
 
 # 📌 Featured Projects
 
-## 🚀 DevOps CI/CD with GitOps on Kubernetes
-- Built CI pipeline with **Jenkins + SonarQube + Trivy**
-- Implemented **GitOps deployment using ArgoCD**
-- Performed **V1 → V2 deployment with zero downtime**
-- Configured **Horizontal Pod Autoscaling**
-
----
 
 ## 🎬 DevSecOps Netflix Clone — AWS EKS
 - Provisioned infrastructure using **Terraform**
@@ -90,24 +83,6 @@
 
 ---
 
-## 🚚 Swiggy Delivery Time Prediction (Learning MLOps)
-
-Small learning project to explore production ML workflows.
-
-Tech explored:
-- DVC
-- MLflow
-- DagsHub
-- FastAPI
-- Docker
-- AWS basics
-
-Built:
-- Delivery time prediction model
-- Experiment tracking
-- Basic model deployment workflow
-
----
 
 ## 🚗 Car Damage Detection System
 - Built using **PyTorch**
