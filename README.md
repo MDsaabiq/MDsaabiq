@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:2563EB&text=Shaik%20Saabiq&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-# Hi 👋 I'm Saabiq
-
 ### Computer Science Student • DevOps • Cloud • Machine Learning
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=700&lines=Building+real+projects;Learning+DevOps+and+MLOps;Cloud+%7C+Backend+%7C+ML"/>
