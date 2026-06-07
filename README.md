@@ -1,6 +1,10 @@
 <div align="center">
 
-[terminal_typing_js.html](https://github.com/user-attachments/files/28676578/terminal_typing_js.html)
+<img
+src="https://github.com/user-attachments/assets/61c76ac4-89f2-4f04-accc-b0393bbe7587"
+width="95%"
+alt="Saabiq Intro"
+/>
 
 
 
