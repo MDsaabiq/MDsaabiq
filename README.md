@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/0f65588a-0d6b-4c34-b788-a4fb5e90dde1" width="90%"/>
-
+![Image](https://github.com/user-attachments/assets/2b1584a6-7fc7-42ee-9797-9d8507deb666)
 ### Computer Science Student • DevOps • Cloud • Machine Learning
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=700&lines=Building+real+projects;Learning+DevOps+and+MLOps;Cloud+%7C+Backend+%7C+ML"/>
