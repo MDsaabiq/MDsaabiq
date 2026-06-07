@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:2563EB&text=Shaik%20Saabiq&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://github.com/user-attachments/assets/0f65588a-0d6b-4c34-b788-a4fb5e90dde1" width="90%"/>
 
 ### Computer Science Student • DevOps • Cloud • Machine Learning
 
