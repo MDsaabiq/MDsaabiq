@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/intro.svg" width="100%"/>
+[terminal_typing_js.html](https://github.com/user-attachments/files/28676578/terminal_typing_js.html)
+
 
 
 ### Computer Science Student • DevOps • Cloud • Machine Learning
