@@ -8,7 +8,7 @@ alt="Saabiq Intro"
 
 
 
-### Computer Science Student • DevOps • Cloud • Machine Learning
+### Computer Science Student • Backend • DevOps • Cloud • Machine Learning
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=700&lines=Building+real+projects;Learning+DevOps+and+MLOps;Cloud+%7C+Backend+%7C+ML"/>
 
