@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img
@@ -23,7 +22,6 @@ alt="Saabiq Intro"
 <a href="https://saabiqsportfolio.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-black"/>
 </a>
-
 </p>
 
 </div>
@@ -78,7 +76,7 @@ Achievements:
 
 # 🔨 Featured Projects
 
-### 🚀 Production-Grade E-Commerce Platform
+## 🚀 Production-Grade E-Commerce Platform
 
 ```yaml
 Stack:
@@ -93,7 +91,7 @@ Highlights:
 
 ---
 
-### ✈️ TourMate – AI Travel Planning Platform
+## ✈️ TourMate – AI Travel Planning Platform
 
 ```yaml
 Stack:
@@ -107,7 +105,7 @@ Highlights:
 
 ---
 
-### 🚚 Food Delivery Time Prediction
+## 🚚 Food Delivery Time Prediction
 
 ```yaml
 Stack:
@@ -122,7 +120,7 @@ Highlights:
 
 ---
 
-### 🚗 Car Damage Detection
+## 🚗 Car Damage Detection
 
 ```yaml
 Stack:
@@ -140,7 +138,7 @@ Highlights:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDsaabiq&show_icons=true&theme=default"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDsaabiq&show_icons=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MDsaabiq"/>
 
@@ -212,4 +210,3 @@ https://github.com/MDsaabiq
 ⭐ Thanks for visiting my profile!
 
 </div>
-````
