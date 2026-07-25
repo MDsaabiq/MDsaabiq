@@ -6,11 +6,9 @@ width="95%"
 alt="Saabiq Intro"
 />
 
+### Computer Science Student • Full-Stack • DevOps • Cloud • AI/ML
 
-
-### Computer Science Student • Backend • DevOps • Cloud • Machine Learning
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=700&lines=Building+real+projects;Learning+DevOps+and+MLOps;Cloud+%7C+Backend+%7C+ML"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=700&lines=Building+Production-Ready+Systems;Learning+Cloud+and+DevOps;Full-Stack+%7C+AI%2FML+%7C+Cloud"/>
 
 <p>
 <a href="https://github.com/MDsaabiq">
@@ -35,138 +33,19 @@ alt="Saabiq Intro"
 
 ```yaml
 Education:
-  - B.Tech CS @ RGUKT Basar (2023–2027)
+  - B.Tech CS & IT @ RGUKT Basar (2023–2027)
 
 Focus:
-  - DevOps
-  - Cloud
-  - Backend
-  - Machine Learning
+  - Full-Stack Development
+  - Cloud & DevOps
+  - AI/ML Integrations
 
 Currently:
-  - Learning MLOps (DVC + MLflow)
-  - Building deployment-focused projects
+  - 100 Days of DevOps (KodeKloud)
+  - TCS NQT 2027 Preparation
 
-Achievements:
-  - 380+ DSA Problems
-  - College Hackathon Rank 4
-```
-
----
-
-# ⚙ Tech
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,git"/>
-
-</p>
-
----
-
-# 🔨 What I'm Building
-
-### 🚀 DevSecOps Netflix Clone
-```yaml
-Stack:
-AWS • Terraform • Jenkins • Kubernetes
-
-Built:
-- CI/CD
-- Security Scanning
-- Monitoring
-```
-
----
-
-### 🏠 Real Estate Price Prediction
-
-```yaml
-3800+ records
-R² > 0.85
-Streamlit Deployment
-Recommendation System
-```
-
----
-
-### 🚚 Swiggy Delivery Time Prediction
-
-```yaml
-Learning MLOps:
-- DVC
-- MLflow
-- Docker
-- FastAPI
-- AWS basics
-```
-
----
-
-### 🚗 Car Damage Detection
-
-```yaml
-PyTorch
-FastAPI
-6 Damage Classes
-```
-
----
-
-# 📈 GitHub
-
-<div align="center">
-
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=MDsaabiq&show_icons=true"/>
-
-<img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=MDsaabiq"/>
-
-</div>
-
----
-
-# 🌱 Current Learning
-
-```yaml
-Cloud:
-  - AWS
-  - EKS
-
-DevOps:
-  - Kubernetes
-  - GitOps
-
-ML:
-  - DVC
-  - MLflow
-```
-
----
-
-# 📫 Reach Me
-
-📧 saabiqcs@gmail.com
-
-🌐 Portfolio  
-https://saabiqsportfolio.netlify.app
-
-💼 LinkedIn  
-https://linkedin.com/in/shaik-saabiq
-
-💻 GitHub  
-https://github.com/MDsaabiq
-
-
-<div align="center">
-
-⭐ Thanks for visiting
-
-</div>
+Achievements & Certifications:
+  - 480+ LeetCode Problems Solved
+  - 75+ KodeKloud DevOps Labs Completed
+  - AWS Technical Essentials Certified
+  - ML Business Analyst (Wharton)
