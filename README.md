@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 <img
@@ -6,9 +7,9 @@ width="95%"
 alt="Saabiq Intro"
 />
 
-### Computer Science Student • Backend • DevOps • Cloud • Machine Learning
+### Computer Science Student • Full-Stack • Backend • DevOps • AI/ML
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=700&lines=Building+real+projects;Learning+DevOps+and+MLOps;Cloud+%7C+Backend+%7C+ML"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=700&lines=Building+Production-Ready+Applications;Full-Stack+%7C+DevOps+%7C+Cloud;Machine+Learning+%7C+MLOps;Always+Learning+Always+Building"/>
 
 <p>
 <a href="https://github.com/MDsaabiq">
@@ -33,68 +34,75 @@ alt="Saabiq Intro"
 
 ```yaml
 Education:
-  - B.Tech CS @ RGUKT Basar (2023–2027)
+  - B.Tech in Computer Science @ RGUKT Basar (2023–2027)
 
-Focus:
-  - DevOps
-  - Cloud
-  - Backend
-  - Machine Learning
+Interests:
+  - Full-Stack Development
+  - Backend Engineering
+  - DevOps & Cloud
+  - Machine Learning & MLOps
 
-Currently:
-  - Building production-ready full-stack and AI/ML projects
-  - Learning MLOps with DVC, MLflow, Docker, FastAPI, and AWS
-  - Strengthening GitOps, Kubernetes, and CI/CD skills
+Expertise:
+  - Building end-to-end software systems
+  - Designing scalable backend applications
+  - Developing production-ready CI/CD pipelines
+  - Deploying cloud-native applications
+  - Building AI/ML solutions from development to deployment
 
 Achievements:
-  - 480+ DSA Problems
-  - 77+ KodeKloud DevOps Labs
+  - 480+ LeetCode Problems Solved
+  - 77+ Hands-on KodeKloud DevOps Labs
+  - IBM SkillBuild Virtual Internship
   - College Hackathon Rank 4
 ```
 
 ---
 
-# ⚙ Tech
+# ⚙️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,redux,mongodb,mysql"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,git"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git"/>
 
 </p>
 
 ---
 
-# 🔨 What I'm Building
+# 🔨 Featured Projects
 
-### 🚀 DevSecOps Netflix Clone
+### 🚀 Production-Grade E-Commerce Platform
 
 ```yaml
 Stack:
-AWS • Terraform • Jenkins • Kubernetes
+React • Node.js • MongoDB • Docker • Jenkins • SonarQube • ArgoCD • Kubernetes • AWS
 
-Built:
-- CI/CD
-- Security Scanning
-- Monitoring
+Highlights:
+- JWT Authentication
+- GitOps Deployment
+- Zero-Downtime Rolling Updates
+- Horizontal Pod Autoscaling
 ```
 
 ---
 
-### 🏠 Real Estate Price Prediction
+### ✈️ TourMate – AI Travel Planning Platform
 
 ```yaml
-3800+ records
-R² > 0.85
-Streamlit Deployment
-Recommendation System
+Stack:
+React • Node.js • FastAPI • MongoDB • LangChain • Gemini • Socket.IO
+
+Highlights:
+- AI Itinerary Generation
+- Real-Time Chat
+- Smart Trip Management
 ```
 
 ---
@@ -102,12 +110,14 @@ Recommendation System
 ### 🚚 Food Delivery Time Prediction
 
 ```yaml
-Learning MLOps:
-- DVC
-- MLflow
-- Docker
-- FastAPI
-- AWS
+Stack:
+Python • FastAPI • DVC • MLflow • Docker • AWS
+
+Highlights:
+- End-to-End MLOps Pipeline
+- Experiment Tracking
+- CI/CD Automation
+- Production Deployment
 ```
 
 ---
@@ -115,58 +125,91 @@ Learning MLOps:
 ### 🚗 Car Damage Detection
 
 ```yaml
-PyTorch
-FastAPI
-6 Damage Classes
+Stack:
+PyTorch • FastAPI • Computer Vision
+
+Highlights:
+- Image Classification
+- Deep Learning
+- REST API Deployment
 ```
 
 ---
 
-# 📈 GitHub
+# 📈 GitHub Stats
 
 <div align="center">
 
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=MDsaabiq&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDsaabiq&show_icons=true&theme=default"/>
 
-<img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=MDsaabiq"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MDsaabiq"/>
 
 </div>
 
 ---
 
-# 🌱 Current Learning
+# 💻 Core Skills
 
 ```yaml
-Cloud:
+Languages:
+  - C++
+  - Python
+  - JavaScript
+
+Frontend:
+  - React
+  - Redux
+  - HTML
+  - CSS
+
+Backend:
+  - Node.js
+  - Express.js
+  - FastAPI
+
+Databases:
+  - MongoDB
+  - MySQL
+
+Cloud & DevOps:
   - AWS
-  - EKS
-
-DevOps:
+  - Docker
   - Kubernetes
-  - GitOps
+  - Jenkins
+  - Terraform
+  - Git
+  - Linux
 
-ML:
-  - DVC
+AI / ML:
+  - PyTorch
+  - Scikit-learn
+  - Pandas
+  - LangChain
   - MLflow
+  - DVC
 ```
 
 ---
 
 # 📫 Reach Me
 
-📧 [saabiqcs@gmail.com](mailto:saabiqcs@gmail.com)
+📧 **Email**  
+saabiqcs@gmail.com
 
-🌐 Portfolio
+🌐 **Portfolio**  
 https://saabiqsportfolio.netlify.app
 
-💼 LinkedIn
+💼 **LinkedIn**  
 https://linkedin.com/in/shaik-saabiq
 
-💻 GitHub
+💻 **GitHub**  
 https://github.com/MDsaabiq
+
+---
 
 <div align="center">
 
-⭐ Thanks for visiting
+⭐ Thanks for visiting my profile!
 
 </div>
+````
