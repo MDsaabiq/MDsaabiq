@@ -6,8 +6,6 @@ width="95%"
 alt="Saabiq Intro"
 />
 
-
-
 ### Computer Science Student • Backend • DevOps • Cloud • Machine Learning
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=700&lines=Building+real+projects;Learning+DevOps+and+MLOps;Cloud+%7C+Backend+%7C+ML"/>
@@ -44,11 +42,13 @@ Focus:
   - Machine Learning
 
 Currently:
-  - Learning MLOps (DVC + MLflow)
-  - Building deployment-focused projects
+  - Building production-ready full-stack and AI/ML projects
+  - Learning MLOps with DVC, MLflow, Docker, FastAPI, and AWS
+  - Strengthening GitOps, Kubernetes, and CI/CD skills
 
 Achievements:
-  - 380+ DSA Problems
+  - 480+ DSA Problems
+  - 77+ KodeKloud DevOps Labs
   - College Hackathon Rank 4
 ```
 
@@ -75,6 +75,7 @@ Achievements:
 # 🔨 What I'm Building
 
 ### 🚀 DevSecOps Netflix Clone
+
 ```yaml
 Stack:
 AWS • Terraform • Jenkins • Kubernetes
@@ -98,7 +99,7 @@ Recommendation System
 
 ---
 
-### 🚚 Swiggy Delivery Time Prediction
+### 🚚 Food Delivery Time Prediction
 
 ```yaml
 Learning MLOps:
@@ -106,7 +107,7 @@ Learning MLOps:
 - MLflow
 - Docker
 - FastAPI
-- AWS basics
+- AWS
 ```
 
 ---
@@ -153,17 +154,16 @@ ML:
 
 # 📫 Reach Me
 
-📧 saabiqcs@gmail.com
+📧 [saabiqcs@gmail.com](mailto:saabiqcs@gmail.com)
 
-🌐 Portfolio  
+🌐 Portfolio
 https://saabiqsportfolio.netlify.app
 
-💼 LinkedIn  
+💼 LinkedIn
 https://linkedin.com/in/shaik-saabiq
 
-💻 GitHub  
+💻 GitHub
 https://github.com/MDsaabiq
-
 
 <div align="center">
 
