@@ -49,9 +49,9 @@ Expertise:
 
 Achievements:
   - 480+ LeetCode Problems Solved
-  - 77+ Hands-on KodeKloud DevOps Labs
+  - 80+ Hands-on KodeKloud DevOps Labs
   - IBM SkillBuild Virtual Internship
-  - College Hackathon Rank 4
+  - SIH internal Hackathon Rank 4
 ```
 
 ---
