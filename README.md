@@ -19,7 +19,7 @@ alt="Saabiq Intro"
 <img src="https://img.shields.io/badge/LinkedIn-blue"/>
 </a>
 
-<a href="https://saabiqsportfolio.netlify.app">
+<a href="https://saabiq.me">
 <img src="https://img.shields.io/badge/Portfolio-black"/>
 </a>
 </p>
@@ -48,8 +48,8 @@ Expertise:
   - Building AI/ML solutions from development to deployment
 
 Achievements:
-  - 480+ LeetCode Problems Solved
-  - 80+ Hands-on KodeKloud DevOps Labs
+  - 650+ LeetCode Problems Solved
+  - 100+ Hands-on KodeKloud DevOps Labs
   - IBM SkillBuild Virtual Internship
   - SIH internal Hackathon Rank 4
 ```
