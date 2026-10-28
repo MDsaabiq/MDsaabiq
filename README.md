@@ -195,7 +195,7 @@ AI / ML:
 saabiqcs@gmail.com
 
 🌐 **Portfolio**  
-https://saabiqsportfolio.netlify.app
+https://saabiq.me
 
 💼 **LinkedIn**  
 https://linkedin.com/in/shaik-saabiq
